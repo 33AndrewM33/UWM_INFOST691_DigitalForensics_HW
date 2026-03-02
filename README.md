@@ -47,4 +47,4 @@ I am a Computer Science student at UW-Milwaukee pursuing a degree with a concent
 
 This repository is part of my broader effort to document my growth and build a public portfolio as I work toward a career in cybersecurity.
 
-🔗 *Feel free to connect with me on [LinkedIn](www.linkedin.com/in/andrew-meder-a09ba11b9) or check out my other repositories!*
+🔗 *Feel free to connect with me on [LinkedIn]([www.linkedin.com/in/andrew-meder-a09ba11b9](https://www.linkedin.com/in/andrew-meder-a09ba11b9/)) or check out my other repositories!*

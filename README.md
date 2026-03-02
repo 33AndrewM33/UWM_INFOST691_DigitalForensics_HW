@@ -19,10 +19,10 @@ This course covers the principles and practices of digital forensics, including 
 
 | Assignment | Description |
 |---|---|
-| [Homework 1](./homeworks/Homework1.docx) | *Review Questions 1-20 from Chapter 1* |
-| [Homework 2](./homeworks/Homework2.docx) | *Initial setup of a virtualized forensics environment using Oracle VirtualBox and Kali Linux. Tasks included configuring a public network, identifying network and hardware addresses via terminal commands, navigating the file system, creating directories, and investigating drive partitions.* |
-| [Homework 3](./homeworks/Homework3.docx) | *Introduction to forensic image acquisition using Guymager in Kali Linux. Tasks included answering Chapter 3 textbook review questions covering core forensics concepts, and performing (or documenting) the acquisition of a USB drive image, including proper directory setup on the system.* |
-| [Homework 4](./homeworks/Homework4.docx) | *Hands-on forensic image analysis using two industry-standard tools. Tasks included answering Chapter 4 textbook review questions, analyzing a forensic image using The Sleuth Kit command-line tools, and conducting a structured examination using the Autopsy GUI forensic platform.* |
+| [Homework 1](./Homeworks/Homework1.docx) | *Review Questions 1-20 from Chapter 1* |
+| [Homework 2](./Homeworks/Homework2.docx) | *Initial setup of a virtualized forensics environment using Oracle VirtualBox and Kali Linux. Tasks included configuring a public network, identifying network and hardware addresses via terminal commands, navigating the file system, creating directories, and investigating drive partitions.* |
+| [Homework 3](./Homeworks/Homework3.docx) | *Introduction to forensic image acquisition using Guymager in Kali Linux. Tasks included answering Chapter 3 textbook review questions covering core forensics concepts, and performing (or documenting) the acquisition of a USB drive image, including proper directory setup on the system.* |
+| [Homework 4](./Homeworks/Homework4.docx) | *Hands-on forensic image analysis using two industry-standard tools. Tasks included answering Chapter 4 textbook review questions, analyzing a forensic image using The Sleuth Kit command-line tools, and conducting a structured examination using the Autopsy GUI forensic platform.* |
 
 > More assignments will be added as the course progresses.
 

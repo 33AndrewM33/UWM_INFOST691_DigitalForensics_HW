@@ -19,10 +19,10 @@ This course covers the principles and practices of digital forensics, including 
 
 | Assignment | Description |
 |---|---|
-| Homework 1 | *Review Questions 1-20 from Chapter 1* |
-| Homework 2 | *Initial setup of a virtualized forensics environment using Oracle VirtualBox and Kali Linux. Tasks included configuring a public network, identifying network and hardware addresses via terminal commands, navigating the file system, creating directories, and investigating drive partitions.* |
-| Homework 3 | *Introduction to forensic image acquisition using Guymager in Kali Linux. Tasks included answering Chapter 3 textbook review questions covering core forensics concepts, and performing (or documenting) the acquisition of a USB drive image, including proper directory setup on the system.* |
-| Homework 4 | *Hands-on forensic image analysis using two industry-standard tools. Tasks included answering Chapter 4 textbook review questions, analyzing a forensic image using The Sleuth Kit command-line tools, and conducting a structured examination using the Autopsy GUI forensic platform.* |
+| [Homework 1](./Homeworks/Homework1.docx) | *Review Questions 1-20 from Chapter 1* |
+| [Homework 2](./Homeworks/Homework2.docx) | *Initial setup of a virtualized forensics environment using Oracle VirtualBox and Kali Linux. Tasks included configuring a public network, identifying network and hardware addresses via terminal commands, navigating the file system, creating directories, and investigating drive partitions.* |
+| [Homework 3](./Homeworks/Homework3.docx) | *Introduction to forensic image acquisition using Guymager in Kali Linux. Tasks included answering Chapter 3 textbook review questions covering core forensics concepts, and performing (or documenting) the acquisition of a USB drive image, including proper directory setup on the system.* |
+| [Homework 4](./Homeworks/Homework4.docx) | *Hands-on forensic image analysis using two industry-standard tools. Tasks included answering Chapter 4 textbook review questions, analyzing a forensic image using The Sleuth Kit command-line tools, and conducting a structured examination using the Autopsy GUI forensic platform.* |
 
 > More assignments will be added as the course progresses.
 
@@ -47,4 +47,4 @@ I am a Computer Science student at UW-Milwaukee pursuing a degree with a concent
 
 This repository is part of my broader effort to document my growth and build a public portfolio as I work toward a career in cybersecurity.
 
-🔗 *Feel free to connect with me on [LinkedIn]([www.linkedin.com/in/andrew-meder-a09ba11b9](https://www.linkedin.com/in/andrew-meder-a09ba11b9/)) or check out my other repositories!*
+*Feel free to connect with me on LinkedIn or check out my other repositories!*

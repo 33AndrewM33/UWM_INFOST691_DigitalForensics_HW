@@ -18,13 +18,17 @@ This course covers the principles and practices of digital forensics, including 
 | [Homework 5](./Homeworks/Homework5.pdf) | *Chapter 5 review questions covering disk geometry, file systems (FAT and NTFS), cluster chains, the Master File Table, and virtual cluster numbers. The lab component involved analyzing Windows Registry hives using RegRipper in Kali Linux to extract user and system artifacts.* |
 | [Homework 6](./Homeworks/Homework6.pdf) | *A written paper on validating hex editors for forensic use, examining Hex Fiend and 010 Editor (macOS) and GHex and Bless (Linux). Covers validation methodology using known test files, hash verification (MD5/SHA-256), and reproducibility standards. The lab component involved recovering deleted files from a forensic image.* |
 | [Homework 7](./Homeworks/Homework7.pdf) | *Chapter 6 review questions covering digital forensics tool classifications, acquisition types, the five core tool functions (validation, extraction, reconstruction, reporting, and acquisition), write-blocking devices, ISO 17025 testing standards, and hash-based evidence verification. The lab component involved hands-on use of a hex editor to examine raw file data.* |
+| [Homework 8](./Homeworks/Homework8.pdf) | *Chapter 7 review questions covering Linux and macOS forensics, including Ext4 vs. APFS/HFS+ file systems, forensic acquisition challenges across platforms, and differences in file system metadata and journaling. The lab component involved installing CSI Linux in VirtualBox, and briefly exploring the many tools and features included.* |
 > More assignments will be added as the course progresses.
 ---
 ## Tools & Technologies
 - **Kali Linux** — Primary OS used for forensic labs and exercises
 - **Oracle VirtualBox** — Virtualization platform used to run Kali Linux
-- **Autopsy / Sleuth Kit** — Digital forensics analysis tools
-- **Guymager** - Linux-based tool used to create disk images or clone disks for forensic analysis
+- **Autopsy / Sleuth Kit** — Digital forensics analysis and examination tools
+- **Guymager** — Linux-based tool used to create disk images or clone disks for forensic analysis
+- **RegRipper** — Windows Registry analysis tool used to extract user and system artifacts from hive files
+- **dd** — Command-line utility used for low-level forensic disk imaging
+- **Hex Editors (GHex, Bless, Hex Fiend, 010 Editor)** — Tools for examining and validating raw file data at the byte level
 ---
 ## About Me
 I am a Computer Science student at UW-Milwaukee pursuing a degree with a concentration in cybersecurity. Alongside my degree, I am currently:
